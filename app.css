@@ -1,5 +1,5 @@
 body {
-    background: url(https://github.com/pinac-solutions/website/blob/master/engineBg.jpg);
+    background: url(/engineBg.jpg);
     background-size: cover;
     background-position: center; 
 }
